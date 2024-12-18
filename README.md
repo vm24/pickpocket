@@ -1,4 +1,4 @@
-# 🕵️‍♂️ PickPocket-IT
+# 🕵️‍♂️ PickPocket
 
 **PickPocket-IT** is a Python script designed to report events like **Mouse Movements**, **Key Presses**, and **Charger Plug/Unplug** actions to a target **Telegram user**. Perfect for monitoring activity in public places, study halls, or personal environments where your belongings are left unattended.
 
